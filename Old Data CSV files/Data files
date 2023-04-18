@@ -1,4 +1,6 @@
 Astro PI Mark II commissioning data - IR.csv 
+Date/Time,Latitude,Longitude,Temperature,Humidity,Pressure,Compass,MagX,MagY,MagZ,Pitch,Roll,Yaw,AccelX,AccelY,AccelZ,R,G,B,C,Motion
+
 astro_pi_data_20150824_085954.csv 
 Columbus_Ed_astro_pi_datalog.csv
 ROW_ID,temp_cpu,temp_h,temp_p,humidity,pressure,pitch,roll,yaw,mag_x,mag_y,mag_z,accel_x,accel_y,accel_z,gyro_x,gyro_y,gyro_z,reset,time_stamp
