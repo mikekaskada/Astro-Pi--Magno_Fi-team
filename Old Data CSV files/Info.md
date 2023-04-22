@@ -28,6 +28,16 @@ Header:
 Total data rows: 110869
 
 
+**data atlantes.csv**
+
+
+Header:
+['datetime', 'picture_file', 'latitude', 'longitude', 'temp_cpu', 'temp_h', 'temp_p', 'humidity', 'pressure', 'pitch', 'roll', 'yaw', 'mag_x', 'mag_y', 'mag_z', 'accel_x', 'accel_y', 'accel_z', 'gyro_x', 'gyro_y', 'gyro_z']
+
+
+Total data rows: 713
+
+
 **HAL_data.csv**
 
 
