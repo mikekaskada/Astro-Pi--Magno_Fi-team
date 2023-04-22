@@ -102,7 +102,7 @@ Header:
 
 Total data rows: 968
 
-## From the team Atlantes
+## From the Atlantes team
 **data atlantes.csv**
 
 
