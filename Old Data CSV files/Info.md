@@ -28,14 +28,15 @@ Header:
 Total data rows: 110869
 
 
-**data atlantes.csv**
+**Node2_Izzy_astro_pi_datalog.csv**
 
 
 Header:
-['datetime', 'picture_file', 'latitude', 'longitude', 'temp_cpu', 'temp_h', 'temp_p', 'humidity', 'pressure', 'pitch', 'roll', 'yaw', 'mag_x', 'mag_y', 'mag_z', 'accel_x', 'accel_y', 'accel_z', 'gyro_x', 'gyro_y', 'gyro_z']
+['ROW_ID', 'temp_cpu', 'temp_h', 'temp_p', 'humidity', 'pressure', 'pitch', 'roll', 'yaw', 'mag_x', 'mag_y', 'mag_z', 'accel_x', 'accel_y', 'accel_z', 'gyro_x', 'gyro_y', 'gyro_z', 'reset', 'time_stamp']
 
 
-Total data rows: 713
+Total data rows: 112770
+
 
 
 **HAL_data.csv**
@@ -68,14 +69,6 @@ Header:
 Total data rows: 716
 
 
-**Node2_Izzy_astro_pi_datalog.csv**
-
-
-Header:
-['ROW_ID', 'temp_cpu', 'temp_h', 'temp_p', 'humidity', 'pressure', 'pitch', 'roll', 'yaw', 'mag_x', 'mag_y', 'mag_z', 'accel_x', 'accel_y', 'accel_z', 'gyro_x', 'gyro_y', 'gyro_z', 'reset', 'time_stamp']
-
-
-Total data rows: 112770
 
 
 **supnova_data.csv**
@@ -106,3 +99,13 @@ Header:
 
 
 Total data rows: 968
+
+
+**data atlantes.csv**
+
+
+Header:
+['datetime', 'picture_file', 'latitude', 'longitude', 'temp_cpu', 'temp_h', 'temp_p', 'humidity', 'pressure', 'pitch', 'roll', 'yaw', 'mag_x', 'mag_y', 'mag_z', 'accel_x', 'accel_y', 'accel_z', 'gyro_x', 'gyro_y', 'gyro_z']
+
+
+Total data rows: 713
