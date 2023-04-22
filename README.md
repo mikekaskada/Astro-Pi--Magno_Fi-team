@@ -1,4 +1,4 @@
-# Astro-Pi Magno_Phi-team
+# Astro-Pi Magno_Phi team from the 2022-2023 Astro Pi competition
 ## Studying Earth's Magnetic Field through Astro Pi Data
 
 This study includes data gathered from past missions of the Astro Pi, as well as data from the 2022-2023 mission.
