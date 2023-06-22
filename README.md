@@ -9,4 +9,5 @@ This study includes data gathered from past missions of the Astro Pi, as well as
 4. Are there any anomalies on Earth’s magnetic field?
 
 ## Acknowledgement
-We are grateful to the [Atlantes team](https://github.com/niubit/astropi_atlantes_2021-2022) from the 2021-2022 Astro Pi competition for making their data and images publicly available. This has provided us with valuable information to further our research on Earth's Magnetic Field. 
+We are grateful to the [Atlantes team](https://github.com/niubit/astropi_atlantes_2021-2022) from the 2021-2022 Astro Pi competition for allowing us
+to use their data and images. This has provided us with valuable information to further our research on Earth's Magnetic Field. 
